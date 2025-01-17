@@ -28,7 +28,7 @@ Digital Web Design Agentur
 ---
 
 layout: image-right
-image: /office.jpg
+image: /imgs/krankikomoffice.webp
 
 ---
 
