@@ -22,7 +22,7 @@ Digital Web Design Agentur
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <img src="/krankikom-logo.jpg" alt="Krankikom Logo" class="h-12" />
+  <img src="/imgs/krankikompraktikum.webp" alt="Krankikom Logo" class="h-12" />
 </div>
 
 ---
