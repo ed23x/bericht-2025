@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: /background1.jpg
+background: /imgs/office.jpg
 class: 'text-center'
 highlighter: shiki
 lineNumbers: false
