@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: office.jpg
+background: /office.jpg
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -22,12 +22,12 @@ Digital Web Design Agentur
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <img src="logokrankikom.webp" alt="Krankikom Logo" class="h-12" />
+  <img src="/logokrankikom.webp" alt="Krankikom Logo" class="h-12" />
 </div>
 
 ---
 layout: image-right
-image: krankikomoffice.webp
+image: /krankikomoffice.webp
 ---
 
 # Standort
@@ -68,7 +68,7 @@ layout: two-cols
 
 ---
 layout: default
-background: arcade.webp
+background: /arcade.webp
 ---
 
 # Was mir gefallen hat 🌟
