@@ -1,13 +1,16 @@
 {
   "private": true,
   "scripts": {
-    "dev": "slidev",
-    "build": "slidev build --out public",
+    "build": "slidev build",
+    "dev": "slidev --open",
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "latest",
-    "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest"
+    "@slidev/cli": "^0.42.5",
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "^0.21.3"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.35.1"
   }
 }
