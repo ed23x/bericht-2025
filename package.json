@@ -1,18 +1,19 @@
 {
   "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "slidev slides.md",
-    "build": "slidev build slides.md",
-    "export": "slidev export slides.md"
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.42.5",
-    "@slidev/theme-default": "^0.21.2",
-    "@slidev/theme-seriph": "^0.21.3",
-    "@slidev/types": "^0.42.5"
+    "@slidev/cli": "^0.45.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.3.4"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.35.1",
-    "@iconify-json/carbon": "^1.1.16"
+    "@iconify-json/carbon": "^1.1.21",
+    "playwright-chromium": "^1.39.0"
   }
 }
