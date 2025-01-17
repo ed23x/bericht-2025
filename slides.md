@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: /imgs/office.jpg
+background: imgs/office.jpg
 class: 'text-center'
 highlighter: shiki
 lineNumbers: false
@@ -22,13 +22,13 @@ Digital Web Design Agentur
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <img src="/imgs/krankikompraktikum.webp" alt="Krankikom Logo" class="h-12" />
+  <img src="imgs/logokrankikom.webp" alt="Krankikom Logo" class="h-12" />
 </div>
 
 ---
 
 layout: image-right
-image: /imgs/krankikomoffice.webp
+image: imgs/krankikomoffice.webp
 
 ---
 
@@ -71,7 +71,7 @@ Calaisplatz 5
 ---
 
 layout: default
-background: /interior.jpg
+background: imgs/arcade.webp
 
 ---
 
