@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: /background1.jpg
 class: 'text-center'
 highlighter: shiki
 lineNumbers: false
@@ -22,20 +22,20 @@ Digital Web Design Agentur
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <img src="https://imgs.search.brave.com/RcfW1bYNxOaKuBH5ql9zyYWiIZTUCcImOAEhHFSzsu0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5icmFuZGZldGNo/LmlvL2lkZkpfZUot/bkkvaWRvWHhSOHhM/Ri5qcGVnP3VwZGF0/ZWQ9MTcxMjE4MDc0/NzczNg" alt="Krankikom Logo" class="h-12" />
+  <img src="/krankikom-logo.jpg" alt="Krankikom Logo" class="h-12" />
 </div>
 
 ---
 
 layout: image-right
-image: https://www.krankikom.de/kk/ueber-uns/219/image-thumb__219__gallery-fullwidth/KK%20%C3%9Cber%20uns%20%20Bild%202%20%20%20%20%20247183911_4450214885043783_3408539835016150827_n~-~media--aa5d92e7--query@2x.webp
+image: /office.jpg
 
 ---
 
 # Standort
 
 <v-clicks>
-  
+
 Krankikom GmbH
 Calaisplatz 5
 47051 Duisburg
@@ -71,7 +71,7 @@ Calaisplatz 5
 ---
 
 layout: default
-background: https://www.krankikom.de/kk/ueber-uns/606/image-thumb__606__gallery-2x2/KK%20%C3%9Cber%20uns%20Bild%20%205%20%20ueber_uns_3~-~media--aa5d92e7--query@2x.webp
+background: /interior.jpg
 
 ---
 
