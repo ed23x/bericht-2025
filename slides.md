@@ -1,7 +1,7 @@
 ---
 theme: seriph
 background: imgs/office.jpg
-class: 'text-center'
+class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
@@ -26,10 +26,8 @@ Digital Web Design Agentur
 </div>
 
 ---
-
 layout: image-right
 image: imgs/krankikomoffice.webp
-
 ---
 
 # Standort
@@ -43,8 +41,8 @@ Calaisplatz 5
 </v-clicks>
 
 ---
-
-## layout: two-cols
+layout: two-cols
+---
 
 # Kernkompetenzen
 
@@ -69,10 +67,8 @@ Calaisplatz 5
 </v-clicks>
 
 ---
-
 layout: default
 background: imgs/arcade.webp
-
 ---
 
 # Was mir gefallen hat 🌟
@@ -91,10 +87,8 @@ background: imgs/arcade.webp
 </div>
 
 ---
-
 layout: center
 class: text-center
-
 ---
 
 # Vielen Dank für Ihre Aufmerksamkeit!
