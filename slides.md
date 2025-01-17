@@ -34,9 +34,9 @@ image: /krankikomoffice.webp
 
 <v-clicks>
 
-Krankikom GmbH
-Calaisplatz 5
-47051 Duisburg
+- Krankikom GmbH
+- Calaisplatz 5
+- 47051 Duisburg
 
 </v-clicks>
 
@@ -94,6 +94,7 @@ class: text-center
 # Vielen Dank für Ihre Aufmerksamkeit!
 
 Zurück zur [Startseite](https://lebenslauf-six.vercel.app)
+
 [Praktikumsbericht als Website](https://krankikompraktikum.netlify.app)
 
 [ed23x](https://github.com/ed23x/)
