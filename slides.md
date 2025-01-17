@@ -102,4 +102,4 @@ class: text-center
 Zurück zur [Startseite](https://lebenslauf-six.vercel.app)
 [Praktikumsbericht als Website](https://krankikompraktikum.netlify.app)
 
-[ed23x](https://github.com/ed23x)
+[ed23x](https://github.com/ed23x/)
