@@ -68,7 +68,7 @@ layout: two-cols
 
 ---
 layout: default
-background: imgs/arcade.webp
+background: arcade.webp
 ---
 
 # Was mir gefallen hat 🌟
