@@ -95,7 +95,7 @@ class: text-center
 
 # Vielen Dank für Ihre Aufmerksamkeit!
 
-Zurück zum [Anfang](https://bericht-2025.vercel.app/1)
+Zurück zum <a href="https://bericht-2025.vercel.app/1" target="_self">Anfang</a>
 
 Zurück zur [Startseite](https://lebenslauf-six.vercel.app)
 
