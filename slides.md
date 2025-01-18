@@ -83,7 +83,7 @@ background: /arcade.webp
 - ⏰ Flexible Arbeitszeiten und Pausen
 - 🏢 Angenehme Pausengestaltung im Gebäude mit Billiardtisch und Arcade Games
 - 👥 Hilfsbereite und freundliche Kollegen
-- Das arbeiten am Macbook
+- 💻 Das arbeiten am Macbook
 </v-clicks>
 
 </div>
