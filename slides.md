@@ -95,6 +95,8 @@ class: text-center
 
 # Vielen Dank für Ihre Aufmerksamkeit!
 
+Zurück zum [Anfang](https://bericht-2025.vercel.app/1)
+
 Zurück zur [Startseite](https://lebenslauf-six.vercel.app)
 
 [Praktikumsbericht als Website](https://krankikompraktikum.netlify.app)
