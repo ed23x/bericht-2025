@@ -44,13 +44,15 @@ image: /krankikomoffice.webp
 layout: two-cols
 ---
 
-# Kernkompetenzen
+# Kernkompetenzen der Firma
 
 <v-clicks>
 
-- Design von Websites und Apps
-- HTML/CSS Webentwicklung
-- Innovative Designkonzepte
+- Online Lernen & Prüfen
+- Internet of Things / Smart Office
+- Digitales Marketing
+- Ticketing Systeme
+- Digitales Design
 
 </v-clicks>
 
@@ -67,7 +69,7 @@ layout: two-cols
 </v-clicks>
 
 ---
-layout: default
+layout: image-right
 background: /arcade.webp
 ---
 
@@ -79,9 +81,9 @@ background: /arcade.webp
 
 - ✨ Moderne Arbeitsumgebung mit schöner Gestaltung
 - ⏰ Flexible Arbeitszeiten und Pausen
-- 👥 Hilfsbereite und freundliche Kollegen
 - 🏢 Angenehme Pausengestaltung im Gebäude mit Billiardtisch und Arcade Games
-
+- 👥 Hilfsbereite und freundliche Kollegen
+- Das arbeiten am Macbook
 </v-clicks>
 
 </div>
