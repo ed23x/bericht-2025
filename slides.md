@@ -70,7 +70,7 @@ layout: two-cols
 
 ---
 layout: image-right
-background: /arcade.webp
+image: /arcade.webp
 ---
 
 # Was mir gefallen hat 🌟
