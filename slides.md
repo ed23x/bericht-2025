@@ -58,11 +58,11 @@ layout: two-cols
 
 ::right::
 
-# Mein Bereich
+# Gerbeitet habe ich in Bereichen:
 
 <v-clicks>
 
-- Hauptsächlich in der Designabteilung
+- Hauptsächlich in der Designabteilung mit Figma
 - Website-Entwicklung
 - Praktische Erfahrungen sammeln
 
