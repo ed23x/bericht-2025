@@ -17,7 +17,7 @@ Digital Web Design Agentur
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Weiter mit der Space-Taste <carbon:arrow-right class="inline"/>
+    Weiter mit der Space-Taste oder nach rechts wischen <carbon:arrow-right class="inline"/>
   </span>
 </div>
 
@@ -62,7 +62,7 @@ layout: two-cols
 
 <v-clicks>
 
-- Hauptsächlich in der Designabteilung mit Figma
+- Hauptsächlich in der Designabteilung mit <a href="https://figma.com" target="_self">Figma</a>
 - Website-Entwicklung
 - Praktische Erfahrungen sammeln
 
