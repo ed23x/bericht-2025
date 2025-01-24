@@ -48,11 +48,18 @@ layout: two-cols
 
 <v-clicks>
 
-- Online Lernen & Prüfen
-- Internet of Things / Smart Office
-- Digitales Marketing
-- Ticketing Systeme
-- Digitales Design
+- websites & apps
+- content marketing
+- e-learning
+- künstliche intelligenz
+- e-commerce & shopsysteme
+- intranet & mitarbeiter-apps
+- agile development
+- prompt enineering
+- barrierefreiheit
+- social media & search engines
+- cineweb-kinosoftware
+- online-ticketing
 
 </v-clicks>
 
