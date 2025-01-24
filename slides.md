@@ -62,7 +62,7 @@ layout: two-cols
 
 <v-clicks>
 
-- Hauptsächlich in der Designabteilung mit <a href="https://figma.com" target="_self">Figma</a>
+- Hauptsächlich in der Designabteilung mit <a href="https://figma.com" target="_blank">Figma</a>
 - Website-Entwicklung
 - Praktische Erfahrungen sammeln
 
