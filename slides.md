@@ -104,7 +104,7 @@ class: text-center
 
 Zurück zum <a href="https://bericht-2025.vercel.app/1" target="_self">Anfang</a>
 
-Zurück zur [Startseite](https://lebenslauf-six.vercel.app)
+Zurück zur [Startseite](https://1000101.vercel.app)
 
 [Praktikumsbericht als Website](https://krankikompraktikum.netlify.app)
 
