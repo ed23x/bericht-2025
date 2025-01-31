@@ -17,12 +17,12 @@ Digital Web Design Agentur
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Weiter mit der Space-Taste oder nach rechts wischen <carbon:arrow-right class="inline"/>
+    Weiter mit der Space-Taste/Pfeilen oder nach rechts wischen <carbon:arrow-right class="inline"/>
   </span>
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <img src="/logokrankikom.webp" alt="Krankikom Logo" class="h-12" />
+  <img src="/logokrankikom.webp" alt="Krankikom Logo" class="h-20" />
 </div>
 
 ---
