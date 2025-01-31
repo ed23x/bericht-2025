@@ -3,7 +3,7 @@ theme: seriph
 background: /office.jpg
 class: text-center
 highlighter: shiki
-lineNumbers: true
+lineNumbers: false
 info: |
   Präsentation über mein Praktikum bei Krankikom GMBH
 drawings:
