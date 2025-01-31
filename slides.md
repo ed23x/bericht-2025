@@ -104,8 +104,8 @@ class: text-center
 
 Zurück zum <a href="https://bericht-2025.vercel.app/1" target="_self">Anfang</a>
 
-Zurück zur [Startseite](https://1000101.vercel.app)
+Zurück zum <a href="https://1000101.vercel.app">Portfolio</a>
 
-[Praktikumsbericht als Website](https://krankikompraktikum.netlify.app)
+<a href="https://krankikompraktikum.netlify.app">Praktikumsbericht als Website</a>
 
-[ed23x](https://github.com/ed23x/)
+Mein <a href="https://github.com/ed23x/">GitHub</a>
