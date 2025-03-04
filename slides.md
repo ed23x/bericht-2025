@@ -11,9 +11,15 @@ drawings:
 css: unocss
 ---
 
-# Mein Praktikum bei Krankikom GMBH
+# Praktikumspräsentation über Krankikom GMBH
+<br>
+20.-24. Mai 2024
 
-Digital Web Design Agentur
+<div class="pt-6">
+  <span class="text-xl">Elior Davydov</span><br>
+  <span class="text-xl">10b</span><br>
+  <span class="text-xl">13-17 Januar 2024</span>
+</div>
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -26,17 +32,56 @@ Digital Web Design Agentur
 </div>
 
 ---
+
+# Über mich
+
+<v-clicks>
+
+## Meine Stärken und Interessen
+- Interesse an digitalen Medien und Webdesign
+- Technisches Verständnis für IT und Software
+
+## Warum Krankikom/Digitale Medienbranche?
+- Ein relativ großer Konzern mit vielen bekannten Kunden wie UCI, Lufthansa und Deichmann
+- Zukunftsorientierte Branche mit vielfältigen Möglichkeiten
+
+## Meine Erwartungen vor dem Praktikum
+- Einblick in den Alltag einer Digitalagentur
+- Praktische Erfahrungen mit professionellen Tools
+
+</v-clicks>
+
+---
 layout: image-right
 image: /krankikomoffice.webp
 ---
 
-# Standort
+# Allgemeine Informationen
 
 <v-clicks>
 
-- Krankikom GmbH
-- Calaisplatz 5
-- 47051 Duisburg
+## Unternehmensdetails
+- **Name:** Krankikom GmbH
+- **Standort:** Calaisplatz 5, 47051 Duisburg
+- **Branche:** <a href="https://www.krankikom.de/services-und-loesungen">Hier ein Überblick</a>
+
+## Unternehmensgröße & Struktur
+- Mitarbeiterzahl: Um die 200 (habe ich gehört)
+- 1 Niederlassung in Duisburg
+
+</v-clicks>
+
+---
+layout: right
+---
+
+<v-clicks>
+
+# Mein/e Betreuer/in
+
+1. Hannah
+
+2. Yussuf
 
 </v-clicks>
 
@@ -48,30 +93,70 @@ layout: two-cols
 
 <v-clicks>
 
-- websites & apps
-- content marketing
-- e-learning
-- künstliche intelligenz
-- e-commerce & shopsysteme
-- intranet & mitarbeiter-apps
-- agile development
-- prompt enineering
-- barrierefreiheit
-- social media & search engines
-- cineweb-kinosoftware
-- online-ticketing
+- Websites & Apps
+- Content Marketing
+- E-Learning
+- Künstliche Intelligenz
+- E-Commerce & Shopsysteme
+- Intranet & Mitarbeiter-Apps
+- Agile Development
+- Prompt Engineering
+- Barrierefreiheit
+- Social Media & Search Engines
+- CineWeb-Kinosoftware
+- Online-Ticketing
 
 </v-clicks>
 
 ::right::
 
-# Gerbeitet habe ich in Bereichen:
+# Meine Abteilungen & Tätigkeiten
 
 <v-clicks>
 
-- Hauptsächlich in der Designabteilung mit [Figma](https://figma.com)
-- Website-Entwicklung
-- Praktische Erfahrungen sammeln
+## Designabteilung
+- Mitarbeit an UI/UX-Designs mit Figma
+- Erstellen von Mockups und Wireframes
+
+## Webentwicklung
+- Einblick in HTML, CSS und JavaScript
+- Grundlagen responsiver Webgestaltung
+
+</v-clicks>
+
+---
+
+# Ein typischer Arbeitstag
+
+<v-clicks>
+
+## Tagesablauf
+- **10:00 Uhr**: Ankommen, Vorbereitung, bekommen von Aufgaben und deren Bearbeitung
+- **(Meist, weil flexibel) 13-14 Uhr**: Mittagessen
+- **14:00 Uhr - 16:00 Uhr**: Arbeit an zugewiesenen Aufgaben
+- **16:00 Uhr**: Heimweg
+
+## Meine Hauptaufgaben
+- Design-Entwürfe in Figma erstellen
+- Erstellung von Prototyp - Webseiten in HTML, CSS und JavaScript
+
+</v-clicks>
+
+---
+
+# Berufsvoraussetzungen in der Branche
+
+<v-clicks>
+
+## Notwendige Qualifikationen
+- Kreatives und analytisches Denken
+- Kenntnisse in Design-Software
+- Grundlegende Programmierkenntnisse je nach Position
+- Teamfähigkeit und Kommunikationsstärke
+
+## Ausbildungs- und Studienwege
+- **Ausbildung:** Mediengestalter Digital/Print (3 Jahre)
+- **Studium:** Medieninformatik, Webdesign, Mediendesign (3-5 Jahre)
 
 </v-clicks>
 
@@ -80,20 +165,41 @@ layout: image-right
 image: /arcade.webp
 ---
 
-# Was mir gefallen hat 🌟
+# Was mir gefallen hat
 
 <div class="mt-10">
 
 <v-clicks>
 
-- ✨ Moderne Arbeitsumgebung mit schöner Gestaltung
-- ⏰ Flexible Arbeitszeiten und Pausen
+- ✨ Moderne Arbeitsumgebung mit ansprechender Gestaltung
+- ⏰ Flexible Arbeitszeiten und selbstbestimmte Pausen
 - 🏢 Angenehme Pausengestaltung im Gebäude mit Billiardtisch und Arcade Games
 - 👥 Hilfsbereite und freundliche Kollegen
-- 💻 Das arbeiten am Macbook
+- 💻 Das Arbeiten mit professioneller Ausstattung (MacBook)
+- 🎨 Kreative Freiheit bei eigenen Designaufgaben
+
 </v-clicks>
 
 </div>
+
+---
+
+# Fazit und Reflexion
+
+<v-clicks>
+
+## Wichtigste Erkenntnisse
+- Einblick in den dynamischen Alltag einer Digitalagentur
+- Verständnis für die Zusammenarbeit verschiedener Fachbereiche
+
+## Stärken und Schwächen im beruflichen Umfeld
+- **Stärken:** Übertragung vom Design in Programmiercode
+- **Entwicklungspotenzial:** Kreativität
+
+## Ausblick
+- Weiterentwicklung meiner Kenntnisse in Webentwicklung
+
+</v-clicks>
 
 ---
 layout: center
@@ -102,10 +208,9 @@ class: text-center
 
 # Vielen Dank für Ihre Aufmerksamkeit!
 
-Zurück zum <a href="https://bericht-2025.vercel.app/1" target="_self">Anfang</a>
+<div class="mt-12">
+  Zurück zum <a href="https://bericht-2025.vercel.app/1" target="_self">Anfang</a>
 
-Zurück zum <a href="https://1000101.vercel.app">Portfolio</a>
+  <a href="https://krankikompraktikum.netlify.app">Praktikumsbericht als Website</a>
 
-<a href="https://krankikompraktikum.netlify.app">Praktikumsbericht als Website</a>
-
-Mein <a href="https://github.com/ed23x/">GitHub</a>
+</div>
