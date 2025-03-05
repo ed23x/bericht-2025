@@ -118,7 +118,7 @@ layout: two-cols
 - Erstellen von Mockups und Wireframes
 
 ## Webentwicklung
-- Einblick in HTML, CSS und JavaScript
+- Arbeiten mit HTML, CSS und JavaScript
 - Grundlagen responsiver Webgestaltung
 
 </v-clicks>
@@ -131,13 +131,13 @@ layout: two-cols
 
 ## Tagesablauf
 - **10:00 Uhr**: Ankommen, Vorbereitung, bekommen von Aufgaben und deren Bearbeitung
-- **(Meist, weil flexibel) 13-14 Uhr**: Mittagessen
+- **13-14 Uhr (Meist, weil flexibel)**: Mittagessen
 - **14:00 Uhr - 16:00 Uhr**: Arbeit an zugewiesenen Aufgaben
 - **16:00 Uhr**: Heimweg
 
 ## Meine Hauptaufgaben
-- Design-Entwürfe in Figma erstellen
-- Erstellung von Prototyp - Webseiten in HTML, CSS und JavaScript
+- Design-Entwurf für ein non-existentes Cafe
+- Erstellung eines Lebenslaufes in Programmiersprachen
 
 </v-clicks>
 
