@@ -16,9 +16,8 @@ css: unocss
 20.-24. Mai 2024
 
 <div class="pt-6">
-  <span class="text-xl">Elior Davydov</span><br>
-  <span class="text-xl">10b</span><br>
-  <span class="text-xl">13-17 Januar 2024</span>
+  <span class="text-xl">Elior Davydov, 10b</span><br>
+  <span class="text-xl">Praktokumsdauer: 13-17 Januar 2024</span>
 </div>
 
 <div class="pt-12">
