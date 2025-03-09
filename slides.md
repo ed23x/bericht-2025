@@ -192,7 +192,7 @@ image: /arcade.webp
 - Verständnis für die Zusammenarbeit verschiedener Fachbereiche
 
 ## Stärken und Schwächen im beruflichen Umfeld
-- **Stärken:** Übertragung vom Design in Programmiercode
+- **Stärken:** Übertragung vom Design in code
 - **Entwicklungspotenzial:** Kreativität
 
 ## Ausblick
