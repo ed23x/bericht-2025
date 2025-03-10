@@ -114,7 +114,7 @@ layout: two-cols
 <v-clicks>
 
 ## Designabteilung
-- Mitarbeit an UI/UX-Designs mit Figma
+- Erstellung UI/UX-Designs mit Figma
 - Erstellen von Mockups und Wireframes
 
 ## Webentwicklung
