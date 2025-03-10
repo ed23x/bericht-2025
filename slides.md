@@ -37,7 +37,7 @@ css: unocss
 <v-clicks>
 
 ## Meine Stärken und Interessen
-- Interesse an digitalen Medien und Webdesign
+- Interesse an Cyber Sicherheit und Webdesign
 - Technisches Verständnis für IT und Software
 
 ## Warum Krankikom/Digitale Medienbranche?
